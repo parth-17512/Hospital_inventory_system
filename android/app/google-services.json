@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "902898650256",
+    "project_id": "hospital-inventory-a7eea",
+    "storage_bucket": "hospital-inventory-a7eea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:902898650256:android:e865f3e14c8a124bd29c15",
+        "android_client_info": {
+          "package_name": "com.example.hospital_inventory_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9f1suYbj6CaWDblokqlKsRTzfaR053ko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
